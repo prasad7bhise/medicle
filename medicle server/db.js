@@ -5,7 +5,7 @@ function createConnection(){
          host: 'localhost',
          user: 'dmc',
          password:'dmc',
-         database: 'ecomm_final',
+         database: 'medicle',
          port: 3306
      })
      connection.connect()
